@@ -17,7 +17,9 @@ module.exports = function(config) {
 		    	'node_modules/angular-mocks/angular-mocks.js',
 		    	'pubSub.js',
 		    	'eventEmitterTest.js',
-		    	'eventBroadcastTest.js'
+		    	'eventBroadcastTest.js',
+		    	'bank.js',
+		    	'bankTest.js'
 		    	],
 
 		// list of files / patterns to exclude
